@@ -1,0 +1,2 @@
+[1118/091420.236:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1119/091916.304:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
